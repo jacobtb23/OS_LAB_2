@@ -1,6 +1,8 @@
 # OS_LAB_2 -> Jacob Barnum
 Lab writeup for Operating Systems (Lab 2)
 
+I gave my USB to you for boot testing. Thanks why the Boot screenshot is still missing. In addition I had to restart my VM to get the 2 logical partition file systems to initiate so I lost the initial terminal output for the exfat and NFTS file systems. What you see is the output after running the initializtion commands for a second time.
+
 ## Partition Table:
 ![alt text](./screenshot2.png)
 
